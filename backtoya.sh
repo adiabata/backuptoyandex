@@ -1,7 +1,7 @@
 #!/bin/bash
 
 yandex-disk start
-yandex-disk token -p lokomotiv97 adiabata2016
+yandex-disk token -p PASSWORD USERNAME
 
 echo ""	
 echo "Привет! Этот скрипт предназначен для копирования файлов, которые ты боишься потерять, на твой Яндекс.Диск. Чтобы вывести список всех команд набери help. Удачи!"
